@@ -103,7 +103,7 @@ CC BY-NC-SA 4.0 — see [LICENSE](LICENSE)
 
 ## Support This Project
 
-NVatar is an independent R&D project exploring the frontier of AI character systems. Built by a solo founder at Neoulsoft Inc. — independent R&D, no external funding yet. Built by a solo founder at Neoulsoft Inc. — independent R&D, no external funding yet.
+NVatar is an independent R&D project exploring the frontier of AI character systems. Built by a solo founder at Neoulsoft Inc. — independent R&D, no external funding yet.
 
 If you find this work valuable:
 
