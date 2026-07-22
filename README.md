@@ -10,7 +10,7 @@
 
 ## Why This Exists
 
-Ready Player Me shut down. The VRM ecosystem lacks a simple, focused demo of what a **3D avatar chat room** looks like on the modern web. Heavy metaverse frameworks exist (VerseEngine, Third Room), but no lightweight implementation ties together:
+Ready Player Me shut down. The VRM ecosystem lacks a simple, focused demo of what a **3D avatar chat room** looks like on the modern web. Heavy metaverse frameworks exist (VerseEngine, Third Room), but few lightweight demos tie together:
 
 1. **VRM avatars** rendered with three-vrm
 2. **WebSocket** real-time multi-user chat
