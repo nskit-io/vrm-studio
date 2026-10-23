@@ -4,7 +4,7 @@
 
 **VRMモデルベースのマルチアバター3Dチャットルーム — WebSocketリアルタイムメッセージング、吹き出し、Mixamoアニメーションリターゲティング。**
 
-> [NVatar](https://github.com/nskit-io/nvatar)プロジェクトより — ローカルハードウェアで完全に動作するAIアバターチャットシステム。
+> [NVatar](https://github.com/nskit-io/nvatar)プロジェクトより — ローカルファースト（性格はローカルモデル、事実はクラウド層）で設計されたAIアバターチャットシステム。
 
 ---
 
@@ -58,7 +58,7 @@ VRM表情 + ボーン回転のブレンド：
 
 ## ライセンス
 
-MIT License - [LICENSE](LICENSE)参照
+CC BY-NC-SA 4.0 — [LICENSE](LICENSE)参照
 
 ---
 

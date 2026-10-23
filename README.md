@@ -4,7 +4,7 @@
 
 **Multi-avatar 3D chat room with VRM models, WebSocket real-time messaging, floating speech bubbles, and Mixamo animation retargeting.**
 
-> From the [NVatar](https://github.com/nskit-io/nvatar) project — an AI avatar chat system running entirely on local hardware.
+> From the [NVatar](https://github.com/nskit-io/nvatar) project — an AI avatar chat system built local-first (personality on a local model, facts via a cloud layer).
 
 ---
 
@@ -17,7 +17,7 @@ Ready Player Me shut down. The VRM ecosystem lacks a simple, focused demo of wha
 3. **Speech bubbles** floating above 3D avatar heads
 4. **Mixamo FBX** animation retargeting to VRM skeletons
 
-This is that demo.
+This repository documents that design. The runnable views live in [nvatar-demo](https://github.com/nskit-io/nvatar-demo).
 
 ## Features
 
@@ -75,19 +75,21 @@ Blend of VRM expressions + bone rotation:
 - [BOOTH](https://booth.pm/) — Indie marketplace
 - [CharacterStudio](https://github.com/memelotsqui/CharacterStudio) — Open-source VRM editor
 
-## Two Demo Views
+## Two Views (in nvatar-demo)
 
-### Avatar Lab (`avatar-demo.html`)
+This repository contains documentation only. The two views below are in the [nvatar-demo](https://github.com/nskit-io/nvatar-demo) repository.
+
+### Avatar Lab ([`avatar-lab.html`](https://github.com/nskit-io/nvatar-demo/blob/main/avatar-lab.html))
 Test VRM models, expressions, and animations in isolation.
 
-### Chat Room (`room-demo.html`)
+### Chat Room ([`room.html`](https://github.com/nskit-io/nvatar-demo/blob/main/room.html))
 Full virtual room with avatar + chat integration, furniture, and multi-avatar support.
 
 ## Related Projects
 
 Other open-source components from the NVatar AI avatar system:
 
-- [**Try Live Demo**](https://nskit-io.github.io/nvatar-demo/) — Experience NVatar in your browser
+- [**Live Demo**](https://nskit-io.github.io/nvatar-demo/) — Live demo is temporarily offline while the demo server is under maintenance. You can still run it from source ([nvatar-demo](https://github.com/nskit-io/nvatar-demo)).
 
 - [**avatar-chat**](https://github.com/nskit-io/avatar-chat) — Prompt engineering patterns for Gemma character AI
 - [**chat-like-human-memory**](https://github.com/nskit-io/chat-like-human-memory) — 9D emotion tracking + personality evolution + 3-tier memory

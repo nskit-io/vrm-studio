@@ -4,7 +4,7 @@
 
 **VRM 모델 기반 멀티 아바타 3D 채팅방 — WebSocket 실시간 메시징, 말풍선, Mixamo 애니메이션 리타겟팅.**
 
-> [NVatar](https://github.com/nskit-io/nvatar) 프로젝트에서 추출 — 로컬 하드웨어에서 완전히 구동되는 AI 아바타 채팅 시스템.
+> [NVatar](https://github.com/nskit-io/nvatar) 프로젝트에서 추출 — 로컬 우선(성격은 로컬 모델, 사실은 클라우드 층)으로 설계된 AI 아바타 채팅 시스템.
 
 ---
 
@@ -67,7 +67,7 @@ VRM 표정 + 뼈대 회전 블렌드:
 
 ## 라이선스
 
-MIT License - [LICENSE](LICENSE) 참조
+CC BY-NC-SA 4.0 — [LICENSE](LICENSE) 참조
 
 ---
 
