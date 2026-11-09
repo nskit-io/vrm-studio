@@ -59,10 +59,12 @@ VRM 표정 + 뼈대 회전 블렌드:
 
 ## 관련 프로젝트
 
+- [**라이브 데모**](https://nskit-io.github.io/nvatar-demo/) — 데모 서버 점검으로 라이브 데모가 일시 중단되었습니다. 소스([nvatar-demo](https://github.com/nskit-io/nvatar-demo))에서 직접 실행할 수 있습니다.
+
 - [**avatar-chat**](https://github.com/nskit-io/avatar-chat) — Gemma 캐릭터 AI 프롬프트 엔지니어링 패턴
 - [**chat-like-human-memory**](https://github.com/nskit-io/chat-like-human-memory) — 9D 감정 추적 + 성격 진화 + 3단계 기억
 - [**customize-local-llm**](https://github.com/nskit-io/customize-local-llm) — 성격은 로컬 Gemma, 팩트는 클라우드 Claude
-- [**CSW**](https://github.com/nskit-io/csw) — 클라우드 레이어를 구동하는 Claude Subscription Worker
+- [**CSW**](https://github.com/nskit-io/csw) — Claude Subscription Worker, 이 R&D 프로토타입의 클라우드 레이어에 쓰인 개인 개발자 도구
 - [**portable-ai-companion**](https://github.com/nskit-io/portable-ai-companion) — 크로스앱 프랜차이즈 아키텍처
 
 ## 라이선스

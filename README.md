@@ -94,7 +94,7 @@ Other open-source components from the NVatar AI avatar system:
 - [**avatar-chat**](https://github.com/nskit-io/avatar-chat) — Prompt engineering patterns for Gemma character AI
 - [**chat-like-human-memory**](https://github.com/nskit-io/chat-like-human-memory) — 9D emotion tracking + personality evolution + 3-tier memory
 - [**customize-local-llm**](https://github.com/nskit-io/customize-local-llm) — Local Gemma for personality, cloud Claude for facts
-- [**CSW**](https://github.com/nskit-io/csw) — Claude Subscription Worker powering the cloud layer
+- [**CSW**](https://github.com/nskit-io/csw) — Claude Subscription Worker, a personal developer tool used for the cloud layer in this R&D prototype
 - [**portable-ai-companion**](https://github.com/nskit-io/portable-ai-companion) — Cross-app franchise architecture for avatar portability
 
 ## License

@@ -50,10 +50,12 @@ VRM表情 + ボーン回転のブレンド：
 
 ## 関連プロジェクト
 
+- [**ライブデモ**](https://nskit-io.github.io/nvatar-demo/) — デモサーバーのメンテナンスのため、ライブデモは一時停止中です。ソース（[nvatar-demo](https://github.com/nskit-io/nvatar-demo)）からは引き続き実行できます。
+
 - [**avatar-chat**](https://github.com/nskit-io/avatar-chat) — GemmaキャラクターAIプロンプトエンジニアリング
 - [**chat-like-human-memory**](https://github.com/nskit-io/chat-like-human-memory) — 9D感情トラッキング + 性格進化 + 3層記憶
 - [**customize-local-llm**](https://github.com/nskit-io/customize-local-llm) — 性格はローカルGemma、ファクトはクラウドClaude
-- [**CSW**](https://github.com/nskit-io/csw) — クラウドレイヤーを動かすClaude Subscription Worker
+- [**CSW**](https://github.com/nskit-io/csw) — Claude Subscription Worker、このR&Dプロトタイプのクラウドレイヤーに使われた個人向け開発者ツール
 - [**portable-ai-companion**](https://github.com/nskit-io/portable-ai-companion) — クロスアプリフランチャイズアーキテクチャ
 
 ## ライセンス
